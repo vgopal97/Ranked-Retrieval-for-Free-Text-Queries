@@ -12,4 +12,4 @@ For running the program go to the code folder and run
 
 ```sh
 python code.py query.txt
-'''
+```
