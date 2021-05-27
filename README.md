@@ -10,6 +10,6 @@ Built a cluster pruning scheme according to Leader nodes documents provided in a
 
 For running the program go to the code folder and run
 
-'''sh
+```sh
 python code.py query.txt
 '''
